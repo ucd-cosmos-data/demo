@@ -1,6 +1,6 @@
 baseURL: https://ucd-cosmos-data.github.io/demo/
 locale: en-us
-title: "Machine Hater"
+title: "Bonsai Lover"
 theme: ["PaperMod"]
 
 params:
@@ -15,8 +15,8 @@ params:
   math: True
   profileMode:
     enabled: true
-    title: "Machine Hater"
-    subtitle: "My two least favorite words: Machine and Learning."
+    title: "Bonsai Lover"
+    subtitle: "Little Trees, Big Stories."
     imageUrl: "/demo/bonsai.jpeg"
     imageWidth: 300
     imageHeight: 300

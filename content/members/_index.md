@@ -14,7 +14,7 @@ title: "Members"
 }
 </style>
 
-### Snoopy
+### Wonjun
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
 

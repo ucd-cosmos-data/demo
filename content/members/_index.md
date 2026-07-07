@@ -14,7 +14,7 @@ title: "Members"
 }
 </style>
 
-### Wonjun
+### Snoopy
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
 
@@ -51,6 +51,25 @@ title: "Members"
       <li>AAA</li>
       <li>BBB</li>
       <li>CCC</li>
+    </ul>
+  </div>
+
+</div>
+
+### Charlie
+
+<div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
+
+  <img src="/demo/members/chalrie.jpeg"
+       alt="Snoopy"
+       style="width: 150px; height: 150px; object-fit: contain; border-radius: 0%; object-position: center; flex-shrink: 0;">
+
+  <div style="flex: 1; text-align: left;">
+    <p style="margin: 0; padding-top: 0.5em;">
+      Charlie is ...
+    </p>
+    <ul style="margin: 0; padding-left: 20px;">
+      <li>--</li>
     </ul>
   </div>
 

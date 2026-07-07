@@ -60,7 +60,7 @@ title: "Members"
 
 <div class="member-block" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
 
-  <img src="/demo/members/chalrie.jpeg"
+  <img src="/demo/members/charlie.jpeg"
        alt="Snoopy"
        style="width: 150px; height: 150px; object-fit: contain; border-radius: 0%; object-position: center; flex-shrink: 0;">
 

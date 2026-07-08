@@ -20,6 +20,6 @@ TocOpen: false
 
 ...
 
-<!--<iframe src="/demo/project/mini1/income_aqi.html" style="width: 100%; height: 600px; border: none;"
+<!--<iframe src="/demo/project/mini1/aqi.html" style="width: 100%; height: 600px; border: none;"
   scrolling="no"
 ></iframe>-->

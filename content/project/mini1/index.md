@@ -1,26 +1,18 @@
 ---
-title: "Mini Project 1: Air Quality"
-author: "Wonjun Seo"
-summary: "Hugo and Markdown"
+title: "Mini Project 1: Asthma and Air Quality"
+author: "Bonsai Lover"
+summary: "This project investigates whether there is a significant correlation between air quality and asthma prevalence across California counties using CDC and EPA data."
 showToc: true
 TocOpen: false
 ---
 ## Introduction
 
-Air pollution is not distributed evenly across the United States, and neither is income. This project asks a simple question: is there a relationship between a county's median household income and the air quality it experiences? ...
-
-## Data
-
-We combine two county-level datasets:
-
-- **Air Quality Index (AQI)**: ...
-- **Household Income**: ...
-
 ...
 
-## Methodology
+## Data Acquisition
 
-To explore the relationship between income and air quality, we:
+- **Asthma**: ...
+- **Air Quality Index (AQI)**: ...
 
 ...
 
@@ -28,6 +20,6 @@ To explore the relationship between income and air quality, we:
 
 ...
 
-<iframe src="/demo/project/mini1/income_aqi.html" style="width: 100%; height: 600px; border: none;"
+<!--<iframe src="/demo/project/mini1/income_aqi.html" style="width: 100%; height: 600px; border: none;"
   scrolling="no"
-></iframe>
+></iframe>-->

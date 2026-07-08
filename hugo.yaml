@@ -12,6 +12,8 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/ucd-cosmos-data/demo"
+    - name: github
+      url: "https://github.com/ucd-cosmos-data/demo-analysis"
   math: True
   profileMode:
     enabled: true

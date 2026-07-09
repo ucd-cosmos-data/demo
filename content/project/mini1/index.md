@@ -17,13 +17,42 @@ TocOpen: false
 ...
 
 ## EDA
+...
+
+In Figure [1](#asthma-aqi) ...
+
+<figure id="asthma-aqi" style="text-align: center; margin: 1.5rem auto;">
+  <img src="/demo/project/mini1/asthma-aqi.svg"
+  style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
+  <figcaption>Fig 1. Asthma prevalence vs. Air quality index</figcaption>
+</figure>
 
 ...
 
-<iframe src="/demo/project/mini1/asthma.html" style="width: 100%; height: 400px; border: none;"
-  scrolling="no"
-></iframe>
+Figure [2](#asthma-choropleth) ...
 
-<iframe src="/demo/project/mini1/aqi.html" style="width: 100%; height: 400px; border: none;"
-  scrolling="no"
-></iframe>
+<figure id="asthma-choropleth">
+  <iframe src="/demo/project/mini1/asthma_county.html"
+          style="width: 100%; height: 600px;"
+          scrolling="no">
+  </iframe>
+  <figcaption style="text-align: center;">
+    Fig 2. Asthma prevalence by county
+  </figcaption>
+</figure>
+
+...
+
+Figure [3](#aqi-choropleth) ...
+
+<figure id="aqi-choropleth">
+  <iframe src="/demo/project/mini1/aqi_county.html"
+          style="width: 100%; height: 600px; border: none;"
+          scrolling="no">
+  </iframe>
+  <figcaption style="text-align: center;">
+    Fig 3. Air quality index by county
+  </figcaption>
+</figure>
+
+...

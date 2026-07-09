@@ -12,7 +12,9 @@ I already miss home.
 
 - Home to [**UC Davis**](https://www.ucdavis.edu).
 - Surrounded by farmland.
-- The most *bike-friendly* town in the USA.
+- The most *bike-friendly* town in the USA. See [photo](#stolen-bike) below.
+
+<div id="stolen-bike">
 
 {{< figure
   src="bike.jpeg"
@@ -20,3 +22,6 @@ I already miss home.
   caption="Bike thief-friendly town"
   align=center
 >}}
+
+</div>
+

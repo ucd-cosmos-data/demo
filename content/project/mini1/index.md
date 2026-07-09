@@ -16,10 +16,14 @@ TocOpen: false
 
 ...
 
-## Discussion
+## EDA
 
 ...
 
-<!--<iframe src="/demo/project/mini1/aqi.html" style="width: 100%; height: 600px; border: none;"
+<iframe src="/demo/project/mini1/asthma.html" style="width: 100%; height: 400px; border: none;"
   scrolling="no"
-></iframe>-->
+></iframe>
+
+<iframe src="/demo/project/mini1/aqi.html" style="width: 100%; height: 400px; border: none;"
+  scrolling="no"
+></iframe>
